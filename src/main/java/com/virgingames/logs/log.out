@@ -1,0 +1,37 @@
+2020-06-05 18:06:62 INFO  BrowserSelector :21 - Chrome browser is Launching
+2020-06-05 18:06:65 INFO  BrowserSelector :34 - Browser is not available
+2020-06-05 18:06:835 INFO  HomePage :35 - Clicking on login button Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-05 18:06:502 INFO  LoginPage :31 - Enter usernameLameeOn username field[[ChromeDriver: chrome on WINDOWS (d56587cda5425de6da579f91802546ff)] -> id: field-username]
+2020-06-05 18:06:642 INFO  LoginPage :38 - Enter password lameethev1988On password field [[ChromeDriver: chrome on WINDOWS (d56587cda5425de6da579f91802546ff)] -> id: field-password]
+2020-06-05 18:06:163 INFO  LoginPage :44 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (d56587cda5425de6da579f91802546ff)] -> xpath: //span[contains(text(),'Login')]]
+2020-06-05 18:06:843 INFO  LoginPage :49 - Getting error message[[ChromeDriver: chrome on WINDOWS (d56587cda5425de6da579f91802546ff)] -> xpath: //div[@class='output']]
+2020-06-05 18:06:180 INFO  BrowserSelector :21 - Chrome browser is Launching
+2020-06-05 18:06:522 INFO  BrowserSelector :34 - Browser is not available
+2020-06-05 18:06:41 INFO  BrowserSelector :21 - Chrome browser is Launching
+2020-06-05 18:06:42 INFO  BrowserSelector :34 - Browser is not available
+2020-06-05 18:06:735 INFO  BrowserSelector :21 - Chrome browser is Launching
+2020-06-05 18:06:738 INFO  BrowserSelector :34 - Browser is not available
+2020-06-05 18:06:807 INFO  HomePage :35 - Clicking on login button Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-05 18:06:619 INFO  LoginPage :31 - Enter usernameLameeOn username field[[ChromeDriver: chrome on WINDOWS (492c672c344550153d7418175b79f874)] -> id: field-username]
+2020-06-05 18:06:462 INFO  LoginPage :38 - Enter password lameethev1988On password field [[ChromeDriver: chrome on WINDOWS (492c672c344550153d7418175b79f874)] -> id: field-password]
+2020-06-05 18:06:33 INFO  LoginPage :44 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (492c672c344550153d7418175b79f874)] -> xpath: //span[contains(text(),'Login')]]
+2020-06-05 18:06:369 INFO  LoginPage :49 - Getting error message[[ChromeDriver: chrome on WINDOWS (492c672c344550153d7418175b79f874)] -> xpath: //div[@class='output']]
+2020-06-05 18:06:604 INFO  BrowserSelector :21 - Chrome browser is Launching
+2020-06-05 18:06:605 INFO  BrowserSelector :34 - Browser is not available
+2020-06-05 18:06:906 INFO  HomePage :35 - Clicking on login button Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-05 18:06:333 INFO  LoginPage :31 - Enter usernameThenuOn username field[[ChromeDriver: chrome on WINDOWS (a2d6a53027ff3f7afd09fb0df2a7e6c5)] -> id: field-username]
+2020-06-05 18:06:827 INFO  LoginPage :38 - Enter password thenuthev2000On password field [[ChromeDriver: chrome on WINDOWS (a2d6a53027ff3f7afd09fb0df2a7e6c5)] -> id: field-password]
+2020-06-05 18:06:130 INFO  LoginPage :44 - Clicking on login button[[ChromeDriver: chrome on WINDOWS (a2d6a53027ff3f7afd09fb0df2a7e6c5)] -> xpath: //span[contains(text(),'Login')]]
+2020-06-05 18:06:313 INFO  LoginPage :49 - Getting error messageProxy element for: DefaultElementLocator 'By.xpath: //div[@class='output']'
+2020-06-05 18:06:51 INFO  BrowserSelector :21 - Chrome browser is Launching
+2020-06-05 18:06:51 INFO  BrowserSelector :34 - Browser is not available
+2020-06-05 18:06:46 INFO  HomePage :35 - Clicking on login button Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-05 19:06:563 INFO  BrowserSelector :21 - Chrome browser is Launching
+2020-06-05 19:06:568 INFO  BrowserSelector :34 - Browser is not available
+2020-06-05 19:06:187 INFO  HomePage :35 - Clicking on login button Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-05 19:06:105 INFO  BrowserSelector :21 - Chrome browser is Launching
+2020-06-05 19:06:106 INFO  BrowserSelector :34 - Browser is not available
+2020-06-05 19:06:575 INFO  HomePage :35 - Clicking on login button Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
+2020-06-05 19:06:782 INFO  BrowserSelector :21 - Chrome browser is Launching
+2020-06-05 19:06:783 INFO  BrowserSelector :34 - Browser is not available
+2020-06-05 19:06:264 INFO  HomePage :35 - Clicking on login button Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Login')]'
